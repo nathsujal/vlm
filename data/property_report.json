@@ -1,0 +1,14 @@
+[
+  {
+    "frame_id": 0,
+    "timestamp_sec": 0.0,
+    "captured_at": "2026-01-12T09:00:00",
+    "description": "there are many cars that are parked on the side of the road",
+    "attributes": {
+      "vehicle_presence_density": "low",
+      "vehicle_access_points": "red white and blue",
+      "unauthorized_vehicle_parking": "yes",
+      "vehicle_pattern_consistency": "no"
+    }
+  }
+]

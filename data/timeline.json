@@ -1,0 +1,128 @@
+[
+  {
+    "frame_id": 0,
+    "timestamp_sec": 0.0,
+    "captured_at": "2026-01-12T09:00:00",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is driving through an urban intersection on a busy street, surrounded by buildings, traffic signals, and other vehicles."
+      },
+      {
+        "object_id": 2,
+        "object_class": "car",
+        "event": "It is positioned at an intersection on a busy city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      },
+      {
+        "object_id": 3,
+        "object_class": "car",
+        "event": "It is positioned at an intersection on a city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      }
+    ]
+  },
+  {
+    "frame_id": 10,
+    "timestamp_sec": 0.3,
+    "captured_at": "2026-01-12T09:00:00.333333",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is positioned at a busy intersection in an urban environment, surrounded by traffic, nearby buildings, and visible road infrastructure."
+      },
+      {
+        "object_id": 2,
+        "object_class": "car",
+        "event": "It is driving through a busy city intersection, surrounded by other cars on the road and urban infrastructure lining the streets."
+      },
+      {
+        "object_id": 3,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the middle of a city, surrounded by moving traffic, traffic signals, and tall buildings lining the streets."
+      }
+    ]
+  },
+  {
+    "frame_id": 16,
+    "timestamp_sec": 0.5,
+    "captured_at": "2026-01-12T09:00:00.533333",
+    "events": [
+      {
+        "object_id": 3,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the city, surrounded by traffic, other vehicles, and visible urban infrastructure."
+      }
+    ]
+  },
+  {
+    "frame_id": 20,
+    "timestamp_sec": 0.7,
+    "captured_at": "2026-01-12T09:00:00.666667",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the middle of a city, surrounded by moving traffic, traffic signals, and tall buildings lining the streets."
+      },
+      {
+        "object_id": 2,
+        "object_class": "car",
+        "event": "It is positioned at an intersection on a busy city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      }
+    ]
+  },
+  {
+    "frame_id": 30,
+    "timestamp_sec": 1.0,
+    "captured_at": "2026-01-12T09:00:01",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the city, surrounded by other vehicles and traffic signals."
+      },
+      {
+        "object_id": 2,
+        "object_class": "car",
+        "event": "It is driving through a busy city street, surrounded by roads filled with traffic and urban infrastructure."
+      }
+    ]
+  },
+  {
+    "frame_id": 36,
+    "timestamp_sec": 1.2,
+    "captured_at": "2026-01-12T09:00:01.200000",
+    "events": [
+      {
+        "object_id": 2,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the middle of a city, surrounded by traffic, with buildings lining the streets and visible in the background."
+      }
+    ]
+  },
+  {
+    "frame_id": 40,
+    "timestamp_sec": 1.3,
+    "captured_at": "2026-01-12T09:00:01.333333",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is driving through a busy intersection in the city, surrounded by traffic, with buildings and visible road infrastructure all around."
+      }
+    ]
+  },
+  {
+    "frame_id": 41,
+    "timestamp_sec": 1.4,
+    "captured_at": "2026-01-12T09:00:01.366667",
+    "events": [
+      {
+        "object_id": 1,
+        "object_class": "car",
+        "event": "It is positioned at an intersection on a city street, surrounded by buildings and nearby traffic elements."
+      }
+    ]
+  }
+]

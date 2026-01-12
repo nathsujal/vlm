@@ -1,0 +1,703 @@
+[
+  {
+    "object_id": 1,
+    "label": "car",
+    "duration_sec": 1.37,
+    "attributes": {
+      "color": "gray",
+      "vehicle_type": "car",
+      "size_category": "small",
+      "make_model": "metal",
+      "body_style": "sedan",
+      "color_secondary": "metal",
+      "distinctive_features": "red and black",
+      "condition": "good",
+      "license_plate_visible": "yes",
+      "license_plate_number": "metal",
+      "license_plate_region": "metal",
+      "windows_tinted": "yes",
+      "sunroof_present": "yes",
+      "modifications": "red and black",
+      "security_features": "red and black",
+      "damage_present": "yes",
+      "damage_details": "red and black"
+    },
+    "events": [
+      {
+        "frame_id": 0,
+        "timestamp_sec": 0.0,
+        "captured_at": "2026-01-12T09:00:00",
+        "caption": "It is driving through an urban intersection on a busy street, surrounded by buildings, traffic signals, and other vehicles."
+      },
+      {
+        "frame_id": 10,
+        "timestamp_sec": 0.3,
+        "captured_at": "2026-01-12T09:00:00.333333",
+        "caption": "It is positioned at a busy intersection in an urban environment, surrounded by traffic, nearby buildings, and visible road infrastructure."
+      },
+      {
+        "frame_id": 20,
+        "timestamp_sec": 0.7,
+        "captured_at": "2026-01-12T09:00:00.666667",
+        "caption": "It is driving through a busy intersection in the middle of a city, surrounded by moving traffic, traffic signals, and tall buildings lining the streets."
+      },
+      {
+        "frame_id": 30,
+        "timestamp_sec": 1.0,
+        "captured_at": "2026-01-12T09:00:01",
+        "caption": "It is driving through a busy intersection in the city, surrounded by other vehicles and traffic signals."
+      },
+      {
+        "frame_id": 40,
+        "timestamp_sec": 1.3,
+        "captured_at": "2026-01-12T09:00:01.333333",
+        "caption": "It is driving through a busy intersection in the city, surrounded by traffic, with buildings and visible road infrastructure all around."
+      },
+      {
+        "frame_id": 41,
+        "timestamp_sec": 1.4,
+        "captured_at": "2026-01-12T09:00:01.366667",
+        "caption": "It is positioned at an intersection on a city street, surrounded by buildings and nearby traffic elements."
+      }
+    ],
+    "summary_text": "Object 1 is a gray car, small size. It was tracked for 1.4 seconds. Initially: It is driving through an urban intersection on a busy street, surrounded by buildings, traffic signals, and other vehicles.. Later: It is positioned at an intersection on a city street, surrounded by buildings and nearby traffic elements."
+  },
+  {
+    "object_id": 2,
+    "label": "car",
+    "duration_sec": 1.2,
+    "attributes": {
+      "color": "silver",
+      "vehicle_type": "car",
+      "size_category": "small",
+      "make_model": "metal",
+      "body_style": "sedan",
+      "color_secondary": "metal",
+      "distinctive_features": "silver",
+      "condition": "good",
+      "license_plate_visible": "yes",
+      "license_plate_number": "metal",
+      "license_plate_region": "blw 981",
+      "windows_tinted": "yes",
+      "sunroof_present": "yes",
+      "modifications": "silver",
+      "damage_present": "yes",
+      "damage_details": "blue and white",
+      "security_features": "silver"
+    },
+    "events": [
+      {
+        "frame_id": 0,
+        "timestamp_sec": 0.0,
+        "captured_at": "2026-01-12T09:00:00",
+        "caption": "It is positioned at an intersection on a busy city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      },
+      {
+        "frame_id": 10,
+        "timestamp_sec": 0.3,
+        "captured_at": "2026-01-12T09:00:00.333333",
+        "caption": "It is driving through a busy city intersection, surrounded by other cars on the road and urban infrastructure lining the streets."
+      },
+      {
+        "frame_id": 20,
+        "timestamp_sec": 0.7,
+        "captured_at": "2026-01-12T09:00:00.666667",
+        "caption": "It is positioned at an intersection on a busy city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      },
+      {
+        "frame_id": 30,
+        "timestamp_sec": 1.0,
+        "captured_at": "2026-01-12T09:00:01",
+        "caption": "It is driving through a busy city street, surrounded by roads filled with traffic and urban infrastructure."
+      },
+      {
+        "frame_id": 36,
+        "timestamp_sec": 1.2,
+        "captured_at": "2026-01-12T09:00:01.200000",
+        "caption": "It is driving through a busy intersection in the middle of a city, surrounded by traffic, with buildings lining the streets and visible in the background."
+      }
+    ],
+    "summary_text": "Object 2 is a silver car, small size. It was tracked for 1.2 seconds. Initially: It is positioned at an intersection on a busy city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment.. Later: It is driving through a busy intersection in the middle of a city, surrounded by traffic, with buildings lining the streets and visible in the background."
+  },
+  {
+    "object_id": 3,
+    "label": "car",
+    "duration_sec": 0.53,
+    "attributes": {
+      "color": "white",
+      "vehicle_type": "car",
+      "size_category": "small",
+      "make_model": "plastic",
+      "body_style": "hatchback",
+      "color_secondary": "plastic",
+      "distinctive_features": "white",
+      "condition": "good",
+      "license_plate_visible": "no",
+      "license_plate_number": "plastic",
+      "license_plate_region": "plastic",
+      "windows_tinted": "yes",
+      "sunroof_present": "no",
+      "modifications": "white",
+      "damage_present": "no",
+      "damage_details": "white",
+      "security_features": "white"
+    },
+    "events": [
+      {
+        "frame_id": 0,
+        "timestamp_sec": 0.0,
+        "captured_at": "2026-01-12T09:00:00",
+        "caption": "It is positioned at an intersection on a city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment."
+      },
+      {
+        "frame_id": 10,
+        "timestamp_sec": 0.3,
+        "captured_at": "2026-01-12T09:00:00.333333",
+        "caption": "It is driving through a busy intersection in the middle of a city, surrounded by moving traffic, traffic signals, and tall buildings lining the streets."
+      },
+      {
+        "frame_id": 16,
+        "timestamp_sec": 0.5,
+        "captured_at": "2026-01-12T09:00:00.533333",
+        "caption": "It is driving through a busy intersection in the city, surrounded by traffic, other vehicles, and visible urban infrastructure."
+      }
+    ],
+    "summary_text": "Object 3 is a white car, small size. It was tracked for 0.5 seconds. Initially: It is positioned at an intersection on a city street, surrounded by buildings, traffic signals, and other vehicles navigating the urban environment.. Later: It is driving through a busy intersection in the city, surrounded by traffic, other vehicles, and visible urban infrastructure."
+  },
+  {
+    "object_id": 4,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 4 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 5,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 5 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 6,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 6 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 7,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 7 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 8,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 8 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 9,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 9 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 10,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 10 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 11,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 11 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 12,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 12 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 13,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 13 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 14,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 14 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 15,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 15 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 16,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 16 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 17,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 17 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 18,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 18 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 19,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 19 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 20,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 20 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 21,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 21 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 22,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 22 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 23,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 23 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 24,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 24 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 25,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 25 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 26,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 26 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 27,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 27 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 28,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 28 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 29,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 29 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 30,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 30 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 31,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 31 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 32,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 32 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 33,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 33 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 34,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 34 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 35,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 35 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 36,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 36 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 37,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 37 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 38,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 38 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 39,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 39 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 40,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 40 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 41,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 41 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 42,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 42 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 43,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 43 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 44,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 44 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 45,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 45 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 46,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 46 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 47,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 47 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 48,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 48 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 49,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 49 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 50,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 50 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 51,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 51 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 52,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 52 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 53,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 53 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 54,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 54 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 55,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 55 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 56,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 56 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 57,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 57 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 58,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 58 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 59,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 59 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 60,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 60 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 61,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 61 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 62,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 62 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 63,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 63 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 64,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 64 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 65,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 65 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 66,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 66 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 67,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 67 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 68,
+    "label": "motorcycle",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 68 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 69,
+    "label": "car",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 69 is a unknown color object, tracked for 0 seconds."
+  },
+  {
+    "object_id": 70,
+    "label": "person",
+    "duration_sec": 0,
+    "attributes": {},
+    "events": [],
+    "summary_text": "Object 70 is a unknown color object, tracked for 0 seconds."
+  }
+]
